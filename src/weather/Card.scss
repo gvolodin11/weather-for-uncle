@@ -1,0 +1,16 @@
+.card-container {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  width: auto;
+  height: 300px;
+}
+
+.card {
+  width: 180px;
+  height: 250px;
+  border-radius: 10px;
+  background-color: rgba(200, 220, 222, 0.9);
+  margin: 5px;
+  display: inline-block;
+}
